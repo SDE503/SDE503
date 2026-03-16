@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sherif 👋
 
-<!--
-**SDE503/SDE503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | SQL • Python • Power BI
 
-Here are some ideas to get you started:
+I'm a data analyst based in Manchester, specializing in customer analytics, 
+ETL pipelines, and business intelligence. Currently building data solutions 
+that drive strategic decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+- **RFM Customer Segmentation Dashboard** - End-to-end analytics project using 
+  SQL Server, Power BI, and Python
+
+### 🛠️ Tech Stack
+- **Languages:** SQL (Advanced), Python (Pandas, NumPy), DAX
+- **Databases:** SQL Server, BigQuery
+- **Visualization:** Power BI, Excel
+- **Tools:** Git, SSIS, SSMS
+
+### 📫 Connect With Me
+- LinkedIn: linkedin.com/in/sherif-ejiwunmi-93005a218
+- Email: sherifejiwunmi@outlook.com
+
+### 📊 Featured Projects
+Check out my pinned repositories below ⬇️
