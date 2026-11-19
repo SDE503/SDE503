@@ -7,7 +7,8 @@ ETL pipelines, and business intelligence. Currently building data solutions
 that drive strategic decision-making.
 
 ### 🔭 Current Projects
-- 
+- **TotalFitness** Analysis project
+- Utility Infrastructure Programme (In progress)
 
 ### 🛠️ Tech Stack
 - **Languages:** SQL (Advanced), Python (Pandas, NumPy), DAX
