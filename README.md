@@ -7,8 +7,7 @@ ETL pipelines, and business intelligence. Currently building data solutions
 that drive strategic decision-making.
 
 ### 🔭 Current Projects
-- **RFM Customer Segmentation Dashboard** - End-to-end analytics project using 
-  SQL Server, Power BI, and Python
+- 
 
 ### 🛠️ Tech Stack
 - **Languages:** SQL (Advanced), Python (Pandas, NumPy), DAX
